@@ -1,0 +1,9 @@
+2021-11-09T22:42:57.621821 Alice generated nonce R=596, RA=735
+2021-11-09T22:42:57.629824 Alice sent the request to BOB
+2021-11-09T22:42:57.634823 Msg from Bob to KDC with tickets
+2021-11-09T22:42:57.635824 kdc received the tickets from Bob 
+2021-11-09T22:42:57.642837 kdc sent the tickets to bob with session key 
+2021-11-09T22:42:57.646824 Alice received her ticket from bob encrypted by alice key
+\x9c\xcc\xf1N' and nonce RA
+2021-11-09T22:42:57.650830Finally Alice sent the message 'Hi Bob, How are you?' to Bob
+2021-11-09T22:42:57.650830 Alice is authenticated and Bob finally received the message = Hi Bob, How are you?    
